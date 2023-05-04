@@ -1,6 +1,5 @@
 >### Hi there 👋
 
-
 <div>
 <img src="https://th.bing.com/th/id/OIP._JMNcERNytobfeMBjRDp7wHaEK?w=277&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width=40% <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dilankanishka&show_icons=true&locale=en" alt="dilankanishka"  /></p>
 </div>
