@@ -1,7 +1,7 @@
 >### Hi there 👋
 
 <div>
-<img src="https://th.bing.com/th/id/OIP._JMNcERNytobfeMBjRDp7wHaEK?w=277&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width=40% <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dilankanishka&show_icons=true&locale=en" alt="dilankanishka"  /></p>
+<img src="https://th.bing.com/th/id/OIP._JMNcERNytobfeMBjRDp7wHaEK?w=277&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" width=40% <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=dilan032&show_icons=true&locale=en" alt="dilan032"  /></p>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilankanishka" alt="dilankanishka" width=100% /></a> </p>
