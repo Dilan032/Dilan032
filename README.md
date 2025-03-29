@@ -15,6 +15,14 @@
   </table>
 </div>
 
+<div align="center">
+  <a href="https://github.com/Dilan032">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilan032&theme=2077" height="140em" />
+  </a>
+</div>
+
+---
+
 ## 📊 GitHub Statistics  
 
 <div align="center">
@@ -22,14 +30,6 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilan032&theme=2077" height="140em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dilan032&theme=2077" height="140em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilan032&theme=2077" height="140em" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/Dilan032">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilan032&theme=2077" height="140em" />
   </a>
 </div>
 
