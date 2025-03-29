@@ -15,13 +15,6 @@
   </table>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Dilan032">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilan032&theme=2077" height="140em" />
-  </a>
-</div>
-
----
 
 ## 📊 GitHub Statistics  
 
@@ -39,6 +32,8 @@
 
 <div align="center">
   <p>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilan032&theme=2077" height="140em" />
+    <br>
     <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=Dilan032&show_icons=true&theme=radical" alt="Dilan032" />
     <img align="center" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilan032&theme=radical" alt="Dilan032" />
   </p>
