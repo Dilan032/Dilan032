@@ -22,8 +22,7 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilan032&theme=2077" height="140em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dilan032&theme=2077" height="140em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilan032&theme=2077" height="140em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dilan032&theme=2077" height="140em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilan032&theme=2077" height="140em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilan032&theme=2077" height="140em" width="100%" />
   </a>
 </div>
 
