@@ -15,16 +15,15 @@
   </table>
 </div>
 
-
 ## 📊 GitHub Statistics  
 
-<div align="">
+<div align="center">
   <a href="https://github.com/Dilan032">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilan032&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dilan032&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilan032&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dilan032&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilan032&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilan032&theme=2077" height="140em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dilan032&theme=2077" height="140em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilan032&theme=2077" height="140em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dilan032&theme=2077" height="140em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilan032&theme=2077" height="140em" />
   </a>
 </div>
 
@@ -32,13 +31,9 @@
 
 ## 🔥 GitHub Streak & Stats  
 
-<div align="">
+<div align="center">
   <p>
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Dilan032&show_icons=true&theme=radical" alt="Dilan032" />
-    <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilan032&theme=radical" alt="Dilan032" />
+    <img align="center" height="140em" src="https://github-readme-stats.vercel.app/api?username=Dilan032&show_icons=true&theme=radical" alt="Dilan032" />
+    <img align="center" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilan032&theme=radical" alt="Dilan032" />
   </p>
 </div>
-
----
-
-
