@@ -15,7 +15,6 @@
   </table>
 </div>
 
----
 
 ## 🔥 GitHub Streak & Stats  
 
@@ -27,6 +26,9 @@
     <img align="center" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilan032&theme=radical" alt="Dilan032" />
   </p>
 </div>
+
+---
+
 
 ## 📊 GitHub Statistics  
 
