@@ -1,21 +1,5 @@
 <h1 align="center">Hi there, I'm Dilan! </h1>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <p>
-          <img src="https://komarev.com/ghpvc/?username=Dilan032&label=Profile%20views&color=0e75b6&style=flat" alt="Dilan032" />
-        </p>
-      </td>
-      <td>
-        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-      </td>
-    </tr>
-  </table>
-</div>
-
-
 ## 🔥 GitHub Streak & Stats  
 
 <div align="center">
@@ -38,5 +22,23 @@
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dilan032&theme=2077" height="140em" />
     <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilan032&theme=2077" height="140em" />
   </a>
+</div>
+
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <p>
+          <img src="https://komarev.com/ghpvc/?username=Dilan032&label=Profile%20views&color=0e75b6&style=flat" alt="Dilan032" />
+        </p>
+      </td>
+      <td>
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+      </td>
+    </tr>
+  </table>
 </div>
 
