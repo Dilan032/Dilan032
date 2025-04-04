@@ -1,5 +1,7 @@
 <h1>Hi there, I'm Dilan! </h1>
 
+---
+
 ## 🔥 GitHub Streak & Stats  
 
 <div align="">
