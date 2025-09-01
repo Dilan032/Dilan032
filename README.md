@@ -4,9 +4,9 @@
 
 <p align="center">
   💻 Passionate Full-Stack Developer from Sri Lanka 🇱🇰 <br/>
-  🛠️ Working with Laravel | React | MySQL | Node.js <br/>
-  🌱 Currently learning React.js and Tailwind CSS <br/>
+  <a href="https://dilankanishka.vercel.app" style="text-decoration: none;">Visit My Portfolio</a>
 </p>
+
 
 ---
 
