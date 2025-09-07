@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&color=00F7FF&center=true&vCenter=true&width=500&height=60&lines=Hi+There,+I'm+Dilan!;AAAFull-Stack+Web+Developer;ALaravel+%7C+React+%7C+Nodejs;AAAAAAAWelcome+to+My+GitHub+Profile!+🚀" />
-</h1>
+</p>
 
 <p align="center">
   💻 Passionate Full-Stack Developer from Sri Lanka 🇱🇰 <br/>
