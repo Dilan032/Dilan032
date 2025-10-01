@@ -31,15 +31,6 @@
 
 ---
 
-##   More GitHub Insights
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilan032&theme=radical" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dilan032&theme=radical" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilan032&theme=radical" height="150" />
-</div>
-
----
 
 ##  Visitors
 
