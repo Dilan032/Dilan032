@@ -53,7 +53,6 @@
 📍 Puttalam, Sri Lanka  
 📞 +94 779 922 985  
 📧 dilankanishka032@gmail.com  
-🔗 GitHub: https://github.com/Dilan032  
 🔗 Portfolio: https://dilankanishka.vercel.app/  
 🔗 LinkedIn: https://www.linkedin.com/in/wpddilan/
 
