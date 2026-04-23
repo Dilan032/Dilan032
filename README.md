@@ -45,3 +45,58 @@
 </div>
 
 ---
+
+
+# Dilan Kanishka
+**Junior Software Engineer | Full-Stack Developer**
+
+📍 Puttalam, Sri Lanka  
+📞 +94 779 922 985  
+📧 dilankanishka032@gmail.com  
+🔗 GitHub: https://github.com/Dilan032  
+🔗 Portfolio: https://dilankanishka.vercel.app/  
+🔗 LinkedIn: https://www.linkedin.com/in/wpddilan/
+
+---
+
+## 🧑‍💻 Profile Summary
+Motivated and detail-oriented Junior Software Engineer with hands-on experience in full-stack development through a 6-month internship. Strong foundation in Laravel and Node.js with practical experience in API development, database management, and team collaboration. Passionate about building scalable, user-friendly applications and continuously learning modern technologies like React.js and Tailwind CSS.
+
+---
+
+## 🛠 Technical Skills
+
+**Frontend:** HTML, CSS, JavaScript, React.js, Bootstrap, Tailwind CSS  
+**Backend:** Laravel, Node.js, REST API Development  
+**Database:** MySQL  
+**Tools & Platforms:** GitHub, Postman, Vercel  
+**Design:** Figma  
+
+---
+
+## 💼 Experience
+
+### Trainee Software Engineer  
+**Nanosoft Solutions (Pvt) Ltd** — Kurunegala (Hybrid)  
+_Aug 2024 – Jun 2025_
+
+- Developed full-stack web applications using Laravel and MySQL
+- Built and tested REST APIs using Postman
+- Collaborated with front-end developers to integrate backend services
+- Developed multiple Node.js APIs for real-world applications
+
+**Key Contributions:**
+- Built Cash Collector API using Node.js and Express.js with secure authentication
+- Developed Banker Data Entry API and Image Management API
+- Contributed to a Task Management System (team project)
+- Developed Loyalty Application 
+---
+
+## 🎓 Education
+
+**Higher National Diploma in Information Technology (HNDIT)**  
+Sri Lanka Institute of Advanced Technological Education (SLIATE)  
+2022 – 2025
+
+---
+
